@@ -1,0 +1,11 @@
+C:\avancandocsharp\AvancandoCSharp\AvancandoCSharp\bin\Debug\netcoreapp3.1\AvancandoCSharp.exe
+C:\avancandocsharp\AvancandoCSharp\AvancandoCSharp\bin\Debug\netcoreapp3.1\AvancandoCSharp.deps.json
+C:\avancandocsharp\AvancandoCSharp\AvancandoCSharp\bin\Debug\netcoreapp3.1\AvancandoCSharp.runtimeconfig.json
+C:\avancandocsharp\AvancandoCSharp\AvancandoCSharp\bin\Debug\netcoreapp3.1\AvancandoCSharp.runtimeconfig.dev.json
+C:\avancandocsharp\AvancandoCSharp\AvancandoCSharp\bin\Debug\netcoreapp3.1\AvancandoCSharp.dll
+C:\avancandocsharp\AvancandoCSharp\AvancandoCSharp\bin\Debug\netcoreapp3.1\AvancandoCSharp.pdb
+C:\avancandocsharp\AvancandoCSharp\AvancandoCSharp\obj\Debug\netcoreapp3.1\AvancandoCSharp.csprojAssemblyReference.cache
+C:\avancandocsharp\AvancandoCSharp\AvancandoCSharp\obj\Debug\netcoreapp3.1\AvancandoCSharp.AssemblyInfoInputs.cache
+C:\avancandocsharp\AvancandoCSharp\AvancandoCSharp\obj\Debug\netcoreapp3.1\AvancandoCSharp.AssemblyInfo.cs
+C:\avancandocsharp\AvancandoCSharp\AvancandoCSharp\obj\Debug\netcoreapp3.1\AvancandoCSharp.dll
+C:\avancandocsharp\AvancandoCSharp\AvancandoCSharp\obj\Debug\netcoreapp3.1\AvancandoCSharp.pdb
